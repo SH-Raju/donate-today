@@ -1,0 +1,139 @@
+body {
+    font-family: 'Bitter', serif;
+    margin: 0;
+    line-height: 1.2;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.first-section {
+    text-align: center;
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+
+}
+
+.Donate-now {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.second-section {
+    text-align: center;
+}
+
+.donation-display {
+    display: flex;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+
+
+
+}
+
+.donation-amount {
+    background-color: lightgray;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 20px;
+}
+
+#donation-200 {
+    background-color: antiquewhite;
+    color: tomato;
+    border-color: tomato;
+    border: 3px solid tomato;
+
+}
+
+.other-amount {
+    color: rgb(212, 210, 210);
+    border-bottom: 3px solid gainsboro;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+
+.third-section {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    margin-bottom: 100px;
+
+
+}
+
+
+#food-family {
+    text-align: justify;
+    background-color: darkturquoise;
+    margin-left: .5%;
+    margin-right: .5%;
+    padding: 10px;
+
+}
+
+#shelter-family {
+    text-align: justify;
+    background-color: lightpink;
+    margin-left: .5%;
+    margin-right: .5%;
+    padding: 10px;
+}
+
+#education-child {
+    text-align: justify;
+    background-color: bisque;
+    margin-left: .5%;
+    margin-right: .5%;
+    padding: 10px;
+}
+
+.fourth-section {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+    padding: 2%;
+
+}
+
+.half-width img {
+    width: 105%;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+}
+
+.line-one {
+    font-family: cursive;
+    color: tomato;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.line-two {
+    color: white;
+}
